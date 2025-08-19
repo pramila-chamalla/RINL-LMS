@@ -50,15 +50,16 @@ Gained hands-on experience working on real-world software development during our
 This project was undertaken during a 4-week internship at RINL, Vizag Steel Plant, where we had the opportunity to collaborate with experienced mentors and understand the intricacies of developing industrial-grade software solutions.
 
 ## Contributors
-Saketh D. Surya<br>
-Devi Sree Prasanth Reddy<br>
+Ch.Pramila<br>
+D. Saketh Surya<br>
+B.Devi Sree Prasanth Reddy<br>
 A. Mohit<br>
 B. Deepak<br>
 B. Chinmai<br>
 A. Hima<br>
-Bharathi<br>
-Neelima<br>
-Pramila<br>
+B.Bharathi<br>
+G.Neelima<br>
 <hr>
 <br>Feel free to contribute by opening issues or submitting pull requests! 😊
+
 
